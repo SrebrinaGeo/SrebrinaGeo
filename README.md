@@ -9,8 +9,8 @@ I'm a beginner in the IT field and eager to explore the immensity of programming
 * 🌍  I'm based in Sofia, Bulgaria
 * ✉️  You can contact me at [srebrinag@gmail.com](mailto:srebrinag@gmail.com)
 * 🧠  I'm learning Python and C++ at SoftUni
-* 🤝  I'm open to collaborating on Projects with Python, C++ and anything related to the IT industry.
-* ⚡  I come from the arts field - I used to be an actress but I decided to change direction. I have solid experience with communication and working with people. I've been a tour guide for more than 4 years, worked with people from different parts of the world and diverse professions. Always curious to learn something new and to meet interesting people who know things I don't!
+* 🤝  I'm open to collaborating on Projects with Python, C++, and anything related to the IT industry.
+* ⚡  I come from the arts field - I used to be an actress but I decided to change direction. I have solid experience in communicating and working with people. I've been a tour guide for more than 4 years, working with people from different parts of the world and diverse professions. I am always curious to learn something new and meet interesting people who know things I don't know!
 
 <a href="https://www.github.com/SrebrinaGeo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SrebrinaGeo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
